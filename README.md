@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Faizan Farooq Sheikh</h1>
-<h3 align="center">Full Stack web Developer. I am interested in Cloud Computing.</h3>
+<h3 align="center">Full Stack web Developer. I am interested in Web development and Cloud Computing.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://avatars.githubusercontent.com/u/71345216?s=400&u=79b6965245cb8dad4b46b45064e8b07dec3a1825&v=4" alt="shiekhfaizan141" /></a> </p>
 
